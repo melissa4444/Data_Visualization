@@ -5,6 +5,8 @@
 ### Dataset - U.S population current or have been on medication for ADHD 
 Choose 20-30 year olds who have ADHD and are currently taking the medication for the past two years.
 
+#### Categories: Male, Non Medicated Male, Female, Non Medicated Female
+
 ### Hypothese: 
 
 It's a frequent misconception that if a patient has a medical issue, they may take a prescription and the disorder can improve or subside. That is, improvement is proportional to the medication. However, it turns out that there's a significant possibility the patient might have improved even if the treatment hadn't already been given. There's also the possibility that a treatment will have no effect.
