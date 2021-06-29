@@ -2,7 +2,7 @@
  
 ## Health Care Data Design Project
 
-### Dataset - U.S population current or have been on Adderall for ADHD 
+### Dataset - U.S population current or have been on medication for ADHD 
 Choose 20-30 year olds who have ADHD and are currently taking the medication for the past two years.
 
 ### Hypothese: 
@@ -15,7 +15,9 @@ It's a frequent misconception that if a patient has a medical issue, they may ta
 #### 3. Likelihood of side effects
 #### 4. Positive behavior change
 #### 5. Benefits of risk reduction
-#### 6. Racial disparities in rated of disorder
+#### 6. Racial disparities in rates of disorder
+#### 7. Education disparities compared to higer education with & without ADHD medication
+
 
 
 ### Questions:  
@@ -30,3 +32,4 @@ How many patients experienced side effects?
 
 Was there an overall improvement in attention span?
 
+Does the overall adult with Adhd pursue higher educaiton?
