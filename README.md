@@ -10,12 +10,12 @@ Hypothese:
 It's a frequent misconception that if a patient has a medical issue, they may take a prescription and the disorder can improve or subside. That is, improvement is proportional to the medication. However, it turns out that there's a significant possibility the patient might have improved even if the treatment hadn't already been given. There's also the possibility that a treatment will have no effect.
 
 Visualization Goal:
- Data about side effects risk
- Showing how side effects change over time
- Likelihood of side effects
- Positive behavior change
- Benefits of risk reduction
- Racial disparities in rated of disorder
+    1. Data about side effects risk
+    2. Showing how side effects change over time
+    3. Likelihood of side effects
+    4. Positive behavior change
+    5. Benefits of risk reduction
+    6. Racial disparities in rated of disorder
 
 
 Questions:  
