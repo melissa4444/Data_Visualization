@@ -3,7 +3,6 @@
 ## Health Care Data Design Project - Disability and Health Data System (DHDS)
 
 ### Dataset - Dataset - U.S population - CDC 2021 U.S 
-Choose 20-30 year olds who have ADHD and are currently taking the medication for the past two years.
 
 ### Hypothese: 
 
