@@ -1,32 +1,34 @@
 # Data_Visualization
  
-## Health Care Data Design Project
+## Health Care Data Design Project - Disability and Health Data System (DHDS)
 
-### Dataset - U.S population current or have been on Adderall for ADHD 
+### Dataset - Dataset - U.S population - CDC 2021 U.S 
 Choose 20-30 year olds who have ADHD and are currently taking the medication for the past two years.
 
 ### Hypothese: 
 
-It's a frequent misconception that if a patient has a medical issue, they may take a prescription and the disorder can improve or subside. That is, improvement is proportional to the medication. However, it turns out that there's a significant possibility the patient might have improved even if the treatment hadn't already been given. There's also the possibility that a treatment will have no effect.
+The year 2020 highlighted many issues in our nation, the biggest red flag during the time was the decline in mental and physical health. I would like to explore the data and create visualizations regarding the mental, physical, social economical, and racial components within the past year.   
+
+"Disability and Health Data System (DHDS) is an online source of state-level data on adults with disabilities. Users can access information on six functional disability types: cognitive (serious difficulty concentrating, remembering or making decisions), hearing (serious difficulty hearing or deaf), mobility (serious difficulty walking or climbing stairs), vision (serious difficulty seeing), self-care (difficulty dressing or bathing) and independent living (difficulty doing errands alone)."
 
 ### Visualization Goal:
-#### 1. Data about side effects risk
-#### 2. Showing how side effects change over time
-#### 3. Likelihood of side effects
-#### 4. Positive behavior change
-#### 5. Benefits of risk reduction
-#### 6. Racial disparities in rated of disorder
+#### 1. Gender Data
+#### 2. Health issues categorized
+#### 3. Age Data
+#### 4. Health Care data
+#### 5. Insured Vs. Non-Insured
+#### 6. Racial disparities in health issues 
 
 
 ### Questions:  
+#### Categorized as gender, race, and insured/not insured.
+#### What percentage of peoples over the age of 18 experienced mild, moderate, or severe symptoms of depression and anxiety?
+#### What percentage of adults have chronic illness compared to insured adults 
+#### Are Children ages 12–17 years old more likely to have taken prescription medication, and received counseling or therapy from a mental health professional.
+#### How does race correlate with individuals being insured or not?
 
-Compare Male vs. Female data to demonstrate
-
-What are the chances that the drug treatment helps?
-
-How much time did it take for patients to notice changes?
- 
-How many patients experienced side effects?
-
-Was there an overall improvement in attention span?
-
+### Reference
+https://data.cdc.gov/Disability-Health/Disability-and-Health-Data-System-DHDS-/k62p-6esq
+data set json file
+https://data.cdc.gov/api/views/k62p-6esq/rows.json?accessType=DOWNLOAD
+https://data.cdc.gov/api/views/k62p-6esq/rows.json?accessType=DOWNLOAD
