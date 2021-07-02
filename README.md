@@ -36,4 +36,4 @@ https://data.cdc.gov/api/views/k62p-6esq/rows.json?accessType=DOWNLOAD
 
 
 ## How to Run: 
-####Every file type you want to associate with Git LFS will need to be added with git lfs track. This command amends your repository's .gitattributes file and associates large files with Git LFS.
+ To associate data file with Git LFS to add git lfs track. This command amends your repository's .gitattributes file and associates large files with Git LFS.
