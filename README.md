@@ -1,10 +1,12 @@
 # Data_Visualization
- 
+
 ## Health Care Data Design Project - Disability and Health Data System (DHDS)
 
-### Dataset - Dataset - U.S population - CDC 2021 U.S 
+### Dataset - Dataset - U.S population - CDC 2021 U.S
 
-### Hypothese: 
+#### Categories: Male, Non Medicated Male, Female, Non Medicated Female
+
+### Hypothese:
 
 The year 2020 highlighted many issues in our nation, the biggest red flag during the time was the decline in mental and physical health. I would like to explore the data and create visualizations regarding the mental, physical, social economical, and racial components within the past year.   
 
@@ -16,13 +18,13 @@ The year 2020 highlighted many issues in our nation, the biggest red flag during
 #### 3. Age Data
 #### 4. Health Care data
 #### 5. Insured Vs. Non-Insured
-#### 6. Racial disparities in health issues 
+#### 6. Racial disparities in health issues
 
 
 ### Questions:  
 #### Categorized as gender, race, and insured/not insured.
 #### What percentage of peoples over the age of 18 experienced mild, moderate, or severe symptoms of depression and anxiety?
-#### What percentage of adults have chronic illness compared to insured adults 
+#### What percentage of adults have chronic illness compared to insured adults
 #### Are Children ages 12–17 years old more likely to have taken prescription medication, and received counseling or therapy from a mental health professional.
 #### How does race correlate with individuals being insured or not?
 
